@@ -1,3 +1,4 @@
-# First Chapter
+# 大型网站技术架构核心原理与案例分析读书笔记
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+本书是李智慧缩写的扫盲书，对于互联网新人来说，能从顶层看到大型网站是如何运行的，对今后的成长发展绝对有大的助益，因为谁也不想永远当一颗钉子。
+
