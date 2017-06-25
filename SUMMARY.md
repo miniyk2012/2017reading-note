@@ -7,4 +7,5 @@
     * [2.7.2 分布式消息队列](chapter1/27/272.md)
     * [2.7.3 分布式服务](chapter1/27/273-fen-bu-shi-fu-wu.md)
       * [7.3.2 分布式服务的需求和特点](chapter1/27/273-fen-bu-shi-fu-wu/732.md)
+    * [2.7.4 可扩展的数据结构](chapter1/27/xx.md)
 
